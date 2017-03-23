@@ -1,0 +1,6 @@
+gym_torcs
+experiments
+*checkpoints
+*_summary
+human.data
+*.pyc
